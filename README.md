@@ -1,6 +1,6 @@
 # School Management API
 
-This project is hosted at [Click Here](http://example.com).
+This project is hosted at [https://school-manage-api.vercel.app/listSchools?latitude=40.4&longitude=32](https://school-manage-api.vercel.app/listSchools?latitude=40.4&longitude=32).
 
 ## Overview
 
