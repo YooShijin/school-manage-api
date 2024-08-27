@@ -24,8 +24,8 @@ This project implements a set of APIs for managing school data using Node.js, Ex
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/YooShijin/school-manage-api.git
+   cd school-manage-api
    ```
 
 2. **Install the Dependecies**
